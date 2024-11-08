@@ -1,0 +1,20 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Cesar Willemberg/OneDrive/Documents/Unreal Projects/AdivinhacaoNumerica/Content/Maps/Main.umap",
+				"C:/Users/Cesar Willemberg/OneDrive/Documents/Unreal Projects/AdivinhacaoNumerica/Content/Widgets/GameWidgetBlueprint.uasset",
+				"C:/Users/Cesar Willemberg/OneDrive/Documents/Unreal Projects/AdivinhacaoNumerica/Content/Sprites/balao.uasset",
+				"C:/Users/Cesar Willemberg/OneDrive/Documents/Unreal Projects/AdivinhacaoNumerica/Content/Sprites/Capa.uasset",
+				"C:/Users/Cesar Willemberg/OneDrive/Documents/Unreal Projects/AdivinhacaoNumerica/Content/Sprites/Foto_Desenho.uasset",
+				"C:/Users/Cesar Willemberg/OneDrive/Documents/Unreal Projects/AdivinhacaoNumerica/Content/Sprites/Foto_Desenho_completo.uasset",
+				"C:/Users/Cesar Willemberg/OneDrive/Documents/Unreal Projects/AdivinhacaoNumerica/Content/Sprites/Main.uasset",
+				"C:/Users/Cesar Willemberg/OneDrive/Documents/Unreal Projects/AdivinhacaoNumerica/Content/Sprites/Main1.uasset",
+				"C:/Users/Cesar Willemberg/OneDrive/Documents/Unreal Projects/AdivinhacaoNumerica/Content/Sprites/Menu.uasset"
+			]
+		}
+	]
+}
